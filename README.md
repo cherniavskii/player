@@ -1,1 +1,2 @@
-player
+# Player
+Simple music player.

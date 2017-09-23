@@ -1,0 +1,44 @@
+[
+  {
+    "src": "https://p4.bcbits.com/download/track/3a4d0f828651e271128f9c1c069960d7/mp3-128/3703677944?fsig=5039f759ce7e3d97a686649c6cb7598a&id=3703677944&stream=1&ts=1506168000.0&token=1506168060_796c56ebbe0f39bd5552a5ba49da76b2adf14c71",
+    "cover": "./img/background.jpg",
+    "artist": "Andrew Cherniavskii",
+    "title": "Memories"
+  },
+  {
+    "src": "https://p4.bcbits.com/download/track/ec5eadbd2e2747bedf7c5592b9d799df/mp3-128/1933941760?fsig=2a3f24fbdd88c7aee4362b543769ddd3&id=1933941760&stream=1&ts=1506168000.0&token=1506168060_6e56dac03710ccc5a0714070bb547e5d52dbcd57",
+    "cover": "./img/background.jpg",
+    "artist": "Andrew Cherniavskii",
+    "title": "Rising up to heaven"
+  },
+  {
+    "src": "https://p4.bcbits.com/download/track/f5e69cce0c73d68e6bf12968d43c62dd/mp3-128/240016838?fsig=159fb97b59a9834046964e7c7aaba4cd&id=240016838&stream=1&ts=1506168000.0&token=1506168060_b504f7495dd933e5ba3e7f0aef2c9b5fb6dce04c",
+    "cover": "./img/background.jpg",
+    "artist": "Andrew Cherniavskii",
+    "title": "Flame"
+  },
+  {
+    "src": "https://p4.bcbits.com/download/track/bec2b18b5f7394010d0375df261567c9/mp3-128/4118829894?fsig=7f82f5a77f4dba5d20d67037ec19c567&id=4118829894&stream=1&ts=1506168000.0&token=1506168060_4d6c1a39e1d47b202a50ad409717784fb6a630ba",
+    "cover": "./img/background.jpg",
+    "artist": "Andrew Cherniavskii",
+    "title": "Rock"
+  },
+  {
+    "src": "https://p4.bcbits.com/download/track/bfe3a5245745bb6d5e3fdb7b362c7802/mp3-128/1919585954?fsig=aacfd6e49e277b10a9a5f22ba0fbc04b&id=1919585954&stream=1&ts=1506168000.0&token=1506168060_3f0e5160dd0fa67f29fb998e9adec4c19ca7229e",
+    "cover": "./img/background.jpg",
+    "artist": "Andrew Cherniavskii",
+    "title": "Sunrise"
+  },
+  {
+    "src": "https://p4.bcbits.com/download/track/bb420713131f2ce11555ddcd84721a0c/mp3-128/2627994276?fsig=60169fda4d9f6c30dca6c768b654b7d5&id=2627994276&stream=1&ts=1506168000.0&token=1506168060_4949d06ed6620506b844382ed957894476f60611",
+    "cover": "./img/background.jpg",
+    "artist": "Andrew Cherniavskii",
+    "title": "Traffic (Faust cover)"
+  },
+  {
+    "src": "https://p4.bcbits.com/download/track/3c7e68b5fda3d78016700ac3466e92ef/mp3-128/270237419?fsig=11cfde21f2e5b4d60eed1caeba8e124d&id=270237419&stream=1&ts=1506168000.0&token=1506168060_e000a5b791caf70a0879769865403856f2dcc53d",
+    "cover": "./img/background.jpg",
+    "artist": "Andrew Cherniavskii",
+    "title": "Lights"
+  }
+]
